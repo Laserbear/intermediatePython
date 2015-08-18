@@ -3,7 +3,7 @@ Virtual Environment
 
 Have you ever heard of ``virtualenv``? The chances are that if you are a
 beginner then you might not have heard about it but if you are a
-seasoned programmer than it's a vital part of your toolset. So what
+seasoned programmer then it's a vital part of your toolset. So what
 ``virtualenv`` really is? ``Virtualenv`` is a tool which allows us to
 make isolated python environments. Imagine you have an application that
 needs version 2 of a LibraryBar, but another application requires
